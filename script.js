@@ -13,7 +13,7 @@ function sortBandNames(names) {
   });
 }
 
-const sortedBandNames = sortBandNames(bandNames);
+const sortedBandNames = sortBandNames(touristSpots);
 
 const bandList = document.getElementById('band');
 
